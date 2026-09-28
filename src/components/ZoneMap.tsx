@@ -15,6 +15,15 @@ const pinIcon = (selected: boolean, kind: 'dock' | 'store' | 'park', mine = fals
     popupAnchor: [0, -28],
   })
 
+const depotIcon = (selected: boolean, mine: boolean) =>
+  L.divIcon({
+    className: 'lzr-marker ldr-depot-icon',
+    html: `<div class="ldr-depot${selected ? ' ldr-depot--selected' : ''}${mine ? ' ldr-depot--mine' : ''}" title="Depot">🏭</div>`,
+    iconSize: [34, 34],
+    iconAnchor: [17, 17],
+    popupAnchor: [0, -17],
+  })
+
 function FitBounds({ zones, selectedId }: { zones: Zone[]; selectedId?: string }) {
   const map = useMap()
 
@@ -83,7 +92,12 @@ export function ZoneMap({
             <Marker
               key={z.id}
               position={[d.lat, d.lng]}
-              icon={pinIcon(z.id === selectedId, d.kind, d.kind === 'dock' && !!z.dockMine)}
+              icon={
+                z.depot
+                  ? depotIcon(z.id === selectedId, d.kind === 'dock' && !!z.dockMine)
+                  : pinIcon(z.id === selectedId, d.kind, d.kind === 'dock' && !!z.dockMine)
+              }
+              zIndexOffset={z.depot ? 1000 : 0}
               eventHandlers={{
                 click: () => {
                   onSelect?.(z.id)
@@ -91,16 +105,18 @@ export function ZoneMap({
               }}
             >
               <Popup>
-                <strong>{z.name}</strong>
+                <strong>{z.depot ? `🏭 ${z.name}` : z.name}</strong>
                 <br />
-                {z.suburb}
+                {z.depot ? `Depot · ${z.accessNotes || z.suburb}` : z.suburb}
                 <br />
                 <span style={{ fontSize: 12, opacity: 0.85 }}>
                   {d.kind === 'dock'
                     ? z.dockMine
                       ? '📌 Your dock pin'
                       : 'Dock pin (bundled)'
-                    : 'Store pin (dock TBD)'}
+                    : z.depot
+                      ? 'Depot pin (dock TBD)'
+                      : 'Store pin (dock TBD)'}
                 </span>
                 <br />
                 <button

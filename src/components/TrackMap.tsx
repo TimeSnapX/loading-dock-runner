@@ -95,6 +95,25 @@ export function TrackMap({
     for (const z of zones ?? []) {
       const d = destCoords(z)
       const hi = z.id === highlightId
+      if (z.depot) {
+        L.marker([d.lat, d.lng], {
+          icon: L.divIcon({
+            className: 'ldr-depot-icon',
+            html: `<div class="ldr-depot${hi ? ' ldr-depot--hi' : ''}${d.kind === 'dock' && z.dockMine ? ' ldr-depot--mine' : ''}" title="Depot">🏭</div>`,
+            iconSize: [34, 34],
+            iconAnchor: [17, 17],
+            popupAnchor: [0, -17],
+          }),
+          zIndexOffset: 1000,
+        })
+          .bindPopup(
+            `<strong>🏭 ${esc(z.name)}</strong><br>Depot · ${esc(z.accessNotes || z.suburb)}<br><span style="font-size:12px;opacity:.8">${
+              d.kind === 'dock' ? (z.dockMine ? '📌 Your dock pin' : 'Dock pin') : 'Depot pin (dock TBD)'
+            }</span><br><button type="button" class="map-open" data-open-store="${esc(z.id)}">Open</button>`,
+          )
+          .addTo(g)
+        continue
+      }
       L.circleMarker([d.lat, d.lng], {
         radius: hi ? 9 : 6,
         color: '#111',

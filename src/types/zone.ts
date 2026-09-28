@@ -24,6 +24,8 @@ export interface Zone {
   tags: string[]
   starter?: boolean
   custom?: boolean
+  /** The driver's home depot (not a store): always listed first, distinct badge and marker. */
+  depot?: boolean
   /** Set when dock coords come from the driver's own saved pin (localStorage override) */
   dockMine?: boolean
   /** Set when park-up coords come from the driver's own saved pin */
@@ -48,4 +50,8 @@ export function isLiquorland(zone: Zone): boolean {
   const brand = (zone.brand || '').toLowerCase()
   if (brand === 'liquorland') return true
   return (zone.tags ?? []).some((t) => t.toLowerCase() === 'liquorland')
+}
+
+export function isDepot(zone: Zone): boolean {
+  return !!zone.depot
 }

@@ -11,11 +11,17 @@ export function ZoneCard({ zone, onClick, distanceLabel }: Props) {
   const preview =
     zone.dockNotes || zone.parkNotes || zone.accessNotes || 'No dock notes yet'
 
+  const depot = !!zone.depot
   return (
-    <button type="button" className="card zone-card zone-card--tap" onClick={onClick}>
+    <button
+      type="button"
+      className={`card zone-card zone-card--tap${depot ? ' zone-card--depot' : ''}`}
+      onClick={onClick}
+      data-testid={depot ? 'depot-card' : undefined}
+    >
       <div className="zone-card__row">
         <div className="zone-card__pin" aria-hidden>
-          📍
+          {depot ? '🏭' : '📍'}
         </div>
         <div className="zone-card__meta">
           <p className="zone-card__suburb-strong">{zone.suburb}</p>
@@ -32,7 +38,11 @@ export function ZoneCard({ zone, onClick, distanceLabel }: Props) {
       </div>
       <p className="zone-card__notes">{preview}</p>
       <div className="zone-card__tags">
-        <span className="tag tag--liquor">{zone.brand || 'Store'}</span>
+        {depot ? (
+          <span className="tag tag--depot">🏭 Depot</span>
+        ) : (
+          <span className="tag tag--liquor">{zone.brand || 'Store'}</span>
+        )}
         {zone.window ? <span className="tag">{zone.window}</span> : null}
         {zone.dockLat != null && zone.dockLng != null ? (
           zone.dockMine ? (

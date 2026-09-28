@@ -4,7 +4,8 @@ import { SearchBar } from '../components/SearchBar'
 import { ZoneCard } from '../components/ZoneCard'
 import { ZoneMap } from '../components/ZoneMap'
 import { distanceKm, formatDistanceKm } from '../lib/geo'
-import { destCoords, isLiquorland, type Zone } from '../types/zone'
+import { destCoords, isDepot, type Zone } from '../types/zone'
+import { buildStoreList } from '../lib/storeList'
 import { countPins, type PinOverrides } from '../lib/pins'
 
 interface Props {
@@ -67,37 +68,19 @@ export function HomePage({ zones, pins }: Props) {
     )
   }, [])
 
-  const filtered = useMemo(() => {
-    let list = zones
-    if (liquorlandOnly) list = list.filter(isLiquorland)
-    if (regionFilter) list = list.filter((z) => z.region === regionFilter)
+  const filtered = useMemo(
+    () =>
+      buildStoreList(zones, {
+        liquorlandOnly,
+        region: regionFilter,
+        query,
+        near: nearestOn && geo.status === 'ready' ? { lat: geo.lat, lng: geo.lng } : null,
+      }),
+    [zones, liquorlandOnly, regionFilter, query, nearestOn, geo],
+  )
 
-    const q = query.trim().toLowerCase()
-    if (q) {
-      list = list.filter(
-        (z) =>
-          z.name.toLowerCase().includes(q) ||
-          z.suburb.toLowerCase().includes(q) ||
-          z.region.toLowerCase().includes(q) ||
-          z.brand.toLowerCase().includes(q),
-      )
-    }
-
-    if (nearestOn && geo.status === 'ready') {
-      const { lat, lng } = geo
-      list = [...list].sort((a, b) => {
-        const da = destCoords(a)
-        const db = destCoords(b)
-        return distanceKm(lat, lng, da.lat, da.lng) - distanceKm(lat, lng, db.lat, db.lng)
-      })
-    } else {
-      list = [...list].sort((a, b) =>
-        a.suburb.localeCompare(b.suburb) || a.name.localeCompare(b.name),
-      )
-    }
-
-    return list
-  }, [zones, liquorlandOnly, regionFilter, query, nearestOn, geo])
+  const storeCount = filtered.filter((z) => !isDepot(z)).length
+  const depotNote = filtered.some(isDepot) ? ' + depot' : ''
 
   const distLabel = (z: Zone): string | null => {
     if (!nearestOn || geo.status !== 'ready') return null
@@ -195,7 +178,8 @@ export function HomePage({ zones, pins }: Props) {
             }}
           />
           <p className="muted" style={{ margin: 0 }}>
-            {filtered.length} store{filtered.length === 1 ? '' : 's'}
+            {storeCount} store{storeCount === 1 ? '' : 's'}
+            {depotNote}
             {selectedId
               ? ' · tap a pin, then open below'
               : ' · tap a pin or switch to List'}
@@ -227,7 +211,7 @@ export function HomePage({ zones, pins }: Props) {
                   className="btn btn--ghost btn--block"
                   onClick={() => setTab('list')}
                 >
-                  Show all {filtered.length} in list
+                  Show all {storeCount}{depotNote} in list
                 </button>
               ) : null}
             </div>
@@ -236,10 +220,21 @@ export function HomePage({ zones, pins }: Props) {
       ) : (
         <div className="list list--scroll">
           <p className="muted list__count" role="status">
-            {filtered.length} store{filtered.length === 1 ? '' : 's'}
+            {storeCount} store{storeCount === 1 ? '' : 's'}
+            {depotNote}
             {regionFilter ? ` · ${regionFilter}` : ''}
           </p>
-          {filtered.length === 0 ? (
+          {filtered.map((z) =>
+            isDepot(z) ? (
+              <ZoneCard
+                key={z.id}
+                zone={z}
+                distanceLabel={distLabel(z)}
+                onClick={() => navigate(`/zone/${z.id}`)}
+              />
+            ) : null,
+          )}
+          {storeCount === 0 ? (
             <div className="card empty">
               No stores match
               {query ? ` “${query}”` : ''}
@@ -247,7 +242,7 @@ export function HomePage({ zones, pins }: Props) {
               {regionFilter ? ` · ${regionFilter}` : ''}.
             </div>
           ) : (
-            filtered.map((z) => (
+            filtered.filter((z) => !isDepot(z)).map((z) => (
               <ZoneCard
                 key={z.id}
                 zone={z}

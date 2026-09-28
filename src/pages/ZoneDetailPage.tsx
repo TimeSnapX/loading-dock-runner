@@ -128,10 +128,11 @@ export function ZoneDetailPage({
         <p className="detail__suburb-strong">{zone.suburb}</p>
         <h1 className="detail__name">{zone.name}</h1>
         <p className="detail__suburb">
-          {zone.brand}
+          {zone.depot ? `Depot · ${zone.accessNotes}` : zone.brand}
           {zone.region ? ` · ${zone.region}` : ''}
         </p>
         <div className="zone-card__tags" style={{ marginTop: '0.55rem' }}>
+          {zone.depot ? <span className="badge badge--depot" data-testid="depot-badge">🏭 Depot</span> : null}
           {zone.starter ? <span className="badge">Starter data</span> : null}
           {zone.custom ? <span className="badge badge--muted">Custom</span> : null}
           <span className="badge badge--muted">
@@ -139,7 +140,9 @@ export function ZoneDetailPage({
               ? zone.dockMine
                 ? '📌 Your dock pin'
                 : 'Dock pin ready'
-              : 'Store pin · dock TBD'}
+              : zone.depot
+                ? 'Depot pin · dock TBD'
+                : 'Store pin · dock TBD'}
           </span>
         </div>
       </header>
@@ -154,7 +157,7 @@ export function ZoneDetailPage({
             openDirections(dest.lat, dest.lng, `${zone.name} ${zone.suburb}`)
           }
         >
-          Get there → {dest.kind === 'dock' ? (zone.dockMine ? 'Your dock pin' : 'Dock') : 'Store'} (Maps)
+          Get there → {dest.kind === 'dock' ? (zone.dockMine ? 'Your dock pin' : 'Dock') : zone.depot ? 'Depot' : 'Store'} (Maps)
         </button>
         {parkOk ? (
           <button
@@ -178,7 +181,7 @@ export function ZoneDetailPage({
         <p className="detail__body">{zone.dockNotes || '—'}</p>
         {dest.kind === 'store' ? (
           <p className="muted" style={{ margin: 0 }}>
-            No verified dock GPS yet — Get there uses the store pin.
+            No verified dock GPS yet — Get there uses the {zone.depot ? 'depot' : 'store'} pin.
           </p>
         ) : null}
         <PinLine mine={!!zone.dockMine} lat={zone.dockLat} lng={zone.dockLng} pin={myPins.dock} kind="dock" />

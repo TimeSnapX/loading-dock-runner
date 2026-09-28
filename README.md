@@ -11,6 +11,10 @@ Live: https://timesnapx.github.io/loading-dock-runner/
 - **Stores**: all Loading Zone Routes features. Liquorland only / region chips / search / Nearest, map + list,
   store detail with dock notes, best park-up, **Get there** (Google Maps), personal notes, custom stores,
   and the GPS pins (Set dock / park-up location by paste, photo EXIF or my location, with a draggable pin).
+- **Home depot**: **Depot - Eagle Farm** (51 Clyde Gessel Pl, Eagle Farm QLD 4009, BevChain / Linfox), id `depot-eagle-farm`,
+  store pin -27.422364, 153.091497 (OSM "BEVCHAIN" warehouse, way 1361911170). It has a 🏭 Depot badge, an orange 🏭 marker on
+  the Stores and Track maps, and is **always first** in the Stores list whatever the filters, search or Nearest sort. It can be picked
+  with Arrive on Track, and Get there / Set dock / Set park-up work the same as for stores.
 - **Track**: Start trip, live route on the same map with the stores, time / km / avg km/h / current km/h
   (pace in min/km is optional). **Arrive at <nearest store>** logs the time; you can also pick another nearby store and undo.
   Pause / Resume / End trip (Save trip, Keep going, Discard trip).

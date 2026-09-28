@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import seedZones from '../data/zones.json'
+import { DEPOT_SEED } from '../data/depot'
 import type { Zone, ZoneNotesMap } from '../types/zone'
 import {
   importJson,
@@ -71,10 +72,15 @@ function normaliseZone(raw: Record<string, unknown>): Zone {
     tags: Array.isArray(raw.tags) ? raw.tags.map(String) : [],
     starter: Boolean(raw.starter),
     custom: Boolean(raw.custom),
+    ...(raw.depot ? { depot: true } : {}),
   }
 }
 
-const seed = (seedZones as Partial<Zone>[]).map(normaliseZone)
+// Depot first; bundled Liquorland stores keep their original ll-seq-### ids and order.
+const seed = [
+  normaliseZone(DEPOT_SEED as unknown as Record<string, unknown>),
+  ...(seedZones as Partial<Zone>[]).map(normaliseZone),
+]
 
 export function useZones() {
   const [customZones, setCustomZones] = useState<Zone[]>(() =>
@@ -115,10 +121,10 @@ export function useZones() {
   }, [notes])
 
   const zones = useMemo(() => {
-    const base = seed.map((z) => normaliseZone({ ...z, ...edits[z.id] }))
+    const base = seed.map((z) => normaliseZone({ ...z, ...edits[z.id], depot: z.depot }))
     const customIds = new Set(customZones.map((z) => z.id))
     const customs = customZones.map((z) =>
-      normaliseZone({ ...z, ...edits[z.id], custom: true }),
+      normaliseZone({ ...z, ...edits[z.id], custom: true, depot: false }),
     )
     // Driver's own pins win over bundled data and edits (bundled JSON is never mutated)
     const withPins = (z: Zone): Zone => {
@@ -144,9 +150,9 @@ export function useZones() {
   const getBundledZone = useCallback(
     (id: string): Zone | undefined => {
       const s = seed.find((z) => z.id === id)
-      if (s) return normaliseZone({ ...s, ...edits[id] })
+      if (s) return normaliseZone({ ...s, ...edits[id], depot: s.depot })
       const c = customZones.find((z) => z.id === id)
-      return c ? normaliseZone({ ...c, ...edits[id], custom: true }) : undefined
+      return c ? normaliseZone({ ...c, ...edits[id], custom: true, depot: false }) : undefined
     },
     [customZones, edits],
   )

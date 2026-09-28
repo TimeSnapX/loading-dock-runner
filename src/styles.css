@@ -213,7 +213,7 @@ select {
 
 .tag--liquor { color: var(--accent-hi); border-color: rgba(255, 191, 0, 0.3); }
 .tag--supermarket { color: #7ec8ff; border-color: rgba(126, 200, 255, 0.3); }
-.tag--depot { color: var(--ok); border-color: rgba(61, 214, 140, 0.3); }
+.tag--depot { color: #ffb37a; border-color: rgba(255, 138, 61, 0.55); background: rgba(255, 138, 61, 0.14); }
 .tag--custom { color: #d4a5ff; border-color: rgba(212, 165, 255, 0.35); }
 
 .search {
@@ -1171,3 +1171,44 @@ select {
 .pocket__ring { width: 22px; height: 22px; border-radius: 50%; border: 3px solid #333; }
 .pocket--holding { color: #777; }
 .pocket--holding .pocket__ring { border-color: #333; border-top-color: var(--accent); animation: ldr-spin linear infinite; }
+
+/* ---- Home depot (always first, distinct badge + marker) ---- */
+.zone-card--depot {
+  flex-shrink: 0; /* never squeezed in the scrolling list: address + 🏭 Depot badge always visible */
+  border-color: rgba(255, 138, 61, 0.6);
+  background: linear-gradient(180deg, rgba(255, 138, 61, 0.1), transparent 70%), var(--bg-elev);
+}
+.zone-card--depot .zone-card__pin {
+  background: rgba(255, 138, 61, 0.2);
+}
+.badge--depot {
+  color: #ffb37a;
+  background: rgba(255, 138, 61, 0.14);
+  border-color: rgba(255, 138, 61, 0.55);
+}
+.leaflet-div-icon.ldr-depot-icon {
+  background: transparent;
+  border: none;
+}
+.ldr-depot {
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  background: #ff8a3d;
+  border: 2px solid #1a1400;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  display: grid;
+  place-items: center;
+  font-size: 19px;
+  line-height: 1;
+}
+.ldr-depot--selected {
+  box-shadow: 0 0 0 4px rgba(255, 138, 61, 0.45), 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+.ldr-depot--mine {
+  border-color: #fff;
+  box-shadow: 0 0 0 3px #d4a5ff, 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+.ldr-depot--hi {
+  background: #3dd68c;
+}

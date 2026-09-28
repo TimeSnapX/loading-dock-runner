@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/loading-dock-runner/sw.js', { scope: '/loading-dock-runner/' })})}

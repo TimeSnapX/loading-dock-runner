@@ -1,0 +1,3940 @@
+[
+  {
+    "id": "ll-seq-001",
+    "name": "Liquorland Adelaide Street",
+    "brand": "Liquorland",
+    "suburb": "Adelaide Street",
+    "region": "Brisbane metro",
+    "lat": -27.467366,
+    "lng": 153.026713,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "195, Adelaide Street, Golden Triangle, Brisbane City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-002",
+    "name": "Liquorland Adelaide Street",
+    "brand": "Liquorland",
+    "suburb": "Adelaide Street",
+    "region": "Brisbane metro",
+    "lat": -27.469288,
+    "lng": 153.024609,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "79, Adelaide Street, Golden Triangle, Brisbane City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-003",
+    "name": "Liquorland Albany Creek Square",
+    "brand": "Liquorland",
+    "suburb": "Albany Creek",
+    "region": "Brisbane metro",
+    "lat": -27.361673,
+    "lng": 153.013912,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "700 Albany Creek Rd, Albany Creek QLD 4035",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-004",
+    "name": "Liquorland Alderley",
+    "brand": "Liquorland",
+    "suburb": "Alderley",
+    "region": "Brisbane metro",
+    "lat": -27.424359,
+    "lng": 152.999624,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "34 South Pine Road, Alderley QLD 4051",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-005",
+    "name": "Liquorland Aroona",
+    "brand": "Liquorland",
+    "suburb": "Aroona",
+    "region": "Brisbane metro",
+    "lat": -27.468607,
+    "lng": 153.002425,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "130 Beerburram Street, Aroona QLD 4551",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-006",
+    "name": "Liquorland Bonny View Tavern Bald Hills",
+    "brand": "Liquorland",
+    "suburb": "Bald Hills",
+    "region": "Brisbane metro",
+    "lat": -27.310717,
+    "lng": 153.012427,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "Cnr Gympie Road & Griffiths Street, Bald Hills QLD 4036",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-007",
+    "name": "Liquorland Birkdale Grape",
+    "brand": "Liquorland",
+    "suburb": "Birkdale",
+    "region": "Brisbane metro",
+    "lat": -27.492062,
+    "lng": 153.217437,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "180 Birkdale Road, Birkdale QLD 4159",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-008",
+    "name": "Liquorland Boundary Road",
+    "brand": "Liquorland",
+    "suburb": "Boundary Road",
+    "region": "Brisbane metro",
+    "lat": -27.566951,
+    "lng": 153.24964,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "128-144, Boundary Road, Thornlands, Logan City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-009",
+    "name": "Liquorland Brendale",
+    "brand": "Liquorland",
+    "suburb": "Brendale",
+    "region": "Brisbane metro",
+    "lat": -27.318286,
+    "lng": 152.992563,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "2 Kremzow Rd, Brendale QLD 4500",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-010",
+    "name": "Liquorland Brisbane",
+    "brand": "Liquorland",
+    "suburb": "Brisbane",
+    "region": "Brisbane metro",
+    "lat": -27.249284,
+    "lng": 152.995981,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Boardman Street, Brisbane, Queensland, 4503",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-011",
+    "name": "Liquorland Brisbane",
+    "brand": "Liquorland",
+    "suburb": "Brisbane",
+    "region": "Brisbane metro",
+    "lat": -27.10118,
+    "lng": 152.947511,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Michael Avenue, Brisbane, Queensland, 4506",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-012",
+    "name": "Liquorland Brisbane City",
+    "brand": "Liquorland",
+    "suburb": "Brisbane City",
+    "region": "Brisbane metro",
+    "lat": -27.471207,
+    "lng": 153.02398,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "George Street, Brisbane City, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-013",
+    "name": "Liquorland Browns Plains (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Browns Plains",
+    "region": "Brisbane metro",
+    "lat": -27.660031,
+    "lng": 153.042913,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "64 Browns Plains Road, Browns Plains QLD 4118",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-014",
+    "name": "Liquorland Bulimba",
+    "brand": "Liquorland",
+    "suburb": "Bulimba",
+    "region": "Brisbane metro",
+    "lat": -27.450802,
+    "lng": 153.057069,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "106 Oxford Street, Bulimba QLD 4171",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-015",
+    "name": "Liquorland Burpengary Central",
+    "brand": "Liquorland",
+    "suburb": "Burpengary",
+    "region": "Brisbane metro",
+    "lat": -27.153475,
+    "lng": 152.973698,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "164 Station Rd, Burpengary QLD 4505",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-016",
+    "name": "Liquorland Caboolture Square",
+    "brand": "Liquorland",
+    "suburb": "Caboolture",
+    "region": "Brisbane metro",
+    "lat": -27.085369,
+    "lng": 152.948888,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "60-78 King Street, Caboolture QLD 4510",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-017",
+    "name": "Liquorland Sundowner Hotel Barn Caboolture",
+    "brand": "Liquorland",
+    "suburb": "Caboolture",
+    "region": "Brisbane metro",
+    "lat": -27.085691,
+    "lng": 152.980314,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "8 Aerodrome Road, Caboolture QLD 4510",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-018",
+    "name": "Liquorland Cannon Hill Kmart Plaza",
+    "brand": "Liquorland",
+    "suburb": "Cannon Hill",
+    "region": "Brisbane metro",
+    "lat": -27.471208,
+    "lng": 153.098589,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Wynnum Rd & Creek Rd, Cannon Hill QLD 4170",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-019",
+    "name": "Liquorland Capalaba (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Capalaba",
+    "region": "Brisbane metro",
+    "lat": -27.524178,
+    "lng": 153.191243,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "36-40 Moreton Bay Road, Capalaba QLD 4157",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-020",
+    "name": "Liquorland Currumbin Court Bottleshop Capalaba",
+    "brand": "Liquorland",
+    "suburb": "Capalaba",
+    "region": "Brisbane metro",
+    "lat": -27.534827,
+    "lng": 153.206658,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "3 Currumbin Court, Capalaba QLD 4157",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-021",
+    "name": "Liquorland Capestone",
+    "brand": "Liquorland",
+    "suburb": "Capestone",
+    "region": "Brisbane metro",
+    "lat": -27.234121,
+    "lng": 153.038501,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Napier Avenue, Capestone, Mango Hill, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-022",
+    "name": "Liquorland Karalee Shopping Village",
+    "brand": "Liquorland",
+    "suburb": "Chuwar",
+    "region": "Brisbane metro",
+    "lat": -27.570374,
+    "lng": 152.797223,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "39/52 Junction Rd, Chuwar QLD 4306",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-023",
+    "name": "Liquorland Cleveland Central",
+    "brand": "Liquorland",
+    "suburb": "Cleveland",
+    "region": "Brisbane metro",
+    "lat": -27.501922,
+    "lng": 153.116485,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "90/91 Middle St, Cleveland QLD 4163",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-024",
+    "name": "Liquorland Cleveland Harbourside",
+    "brand": "Liquorland",
+    "suburb": "Cleveland",
+    "region": "Brisbane metro",
+    "lat": -27.525833,
+    "lng": 153.265195,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "82-100 Middle Street, Cleveland QLD 4163",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-025",
+    "name": "Liquorland Coorparoo",
+    "brand": "Liquorland",
+    "suburb": "Coorparoo",
+    "region": "Brisbane metro",
+    "lat": -27.51121,
+    "lng": 153.06428,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "457 Cavendish Road, Coorparoo QLD 4151",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-026",
+    "name": "Liquorland Daisy Hill",
+    "brand": "Liquorland",
+    "suburb": "Daisy Hill",
+    "region": "Brisbane metro",
+    "lat": -27.643948,
+    "lng": 153.154034,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "1/3 Cupania St, Daisy Hill QLD 4127",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-027",
+    "name": "Liquorland Darra Monier Village",
+    "brand": "Liquorland",
+    "suburb": "Darra",
+    "region": "Brisbane metro",
+    "lat": -27.559336,
+    "lng": 152.951494,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "166 Monier Rd, Darra QLD 4076",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-028",
+    "name": "Liquorland Deception Bay",
+    "brand": "Liquorland",
+    "suburb": "Deception Bay",
+    "region": "Brisbane metro",
+    "lat": -27.194769,
+    "lng": 153.028457,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "45 Bay Avenue, Deception Bay QLD 4508",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-029",
+    "name": "Liquorland Everton Park Hotel Barn",
+    "brand": "Liquorland",
+    "suburb": "Everton Park",
+    "region": "Brisbane metro",
+    "lat": -27.394325,
+    "lng": 152.995517,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "101 Flockton Street, Everton Park QLD 4053",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-030",
+    "name": "Liquorland Fairfield",
+    "brand": "Liquorland",
+    "suburb": "Fairfield",
+    "region": "Brisbane metro",
+    "lat": -27.509649,
+    "lng": 153.024366,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "190 Fairfield Road, Fairfield QLD 4103",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-031",
+    "name": "Liquorland Forest Lake Village",
+    "brand": "Liquorland",
+    "suburb": "Forest Lake",
+    "region": "Brisbane metro",
+    "lat": -27.625308,
+    "lng": 152.968288,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "235 Forest Lake Blvd, Forest Lake QLD 4078",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-032",
+    "name": "Liquorland Gympie Road",
+    "brand": "Liquorland",
+    "suburb": "Gympie Road",
+    "region": "Brisbane metro",
+    "lat": -27.40334,
+    "lng": 153.031086,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "346-366, Gympie Road, Glen Kedron, Kedron",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-033",
+    "name": "Liquorland Hawken Drive",
+    "brand": "Liquorland",
+    "suburb": "Hawken Drive",
+    "region": "Brisbane metro",
+    "lat": -27.502246,
+    "lng": 153.005642,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "222, Hawken Drive, St Lucia, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-034",
+    "name": "Liquorland Indooroopilly Shopping Centre",
+    "brand": "Liquorland",
+    "suburb": "Indooroopilly",
+    "region": "Brisbane metro",
+    "lat": -27.498639,
+    "lng": 152.973141,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "322 Moggill Rd, Indooroopilly QLD 4068",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-035",
+    "name": "Liquorland Ipswich",
+    "brand": "Liquorland",
+    "suburb": "Ipswich",
+    "region": "Brisbane metro",
+    "lat": -27.615529,
+    "lng": 152.761591,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "44 Brisbane Street, Ipswich QLD 4305",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-036",
+    "name": "Liquorland Jindalee (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Jindalee",
+    "region": "Brisbane metro",
+    "lat": -27.53384,
+    "lng": 152.949323,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "168 Sinnamon Street, Jindalee QLD 4074",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-037",
+    "name": "Liquorland Kenmore",
+    "brand": "Liquorland",
+    "suburb": "Kenmore",
+    "region": "Brisbane metro",
+    "lat": -27.50648,
+    "lng": 152.947911,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Cedarleigh Road, Kenmore, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-038",
+    "name": "Liquorland Kenmore Plaza",
+    "brand": "Liquorland",
+    "suburb": "Kenmore",
+    "region": "Brisbane metro",
+    "lat": -27.506647,
+    "lng": 152.939647,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "841 Moggill Rd, Kenmore QLD 4069",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-039",
+    "name": "Liquorland Logan City Centre",
+    "brand": "Liquorland",
+    "suburb": "Logan Central",
+    "region": "Brisbane metro",
+    "lat": -27.641299,
+    "lng": 153.107274,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Cnr Kingston & Wembley Roads, Logan Central QLD 4114",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-040",
+    "name": "Liquorland Hyperdome Loganholme",
+    "brand": "Liquorland",
+    "suburb": "Loganholme",
+    "region": "Brisbane metro",
+    "lat": -27.690531,
+    "lng": 153.177797,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Pacific Highway & Bryants Road, Loganholme QLD 4129",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-041",
+    "name": "Liquorland Loganholme",
+    "brand": "Liquorland",
+    "suburb": "Loganholme",
+    "region": "Brisbane metro",
+    "lat": -27.662887,
+    "lng": 153.173949,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Bryants Road, Loganholme, Logan City, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-042",
+    "name": "Liquorland Market Central Lutwyche",
+    "brand": "Liquorland",
+    "suburb": "Lutwyche",
+    "region": "Brisbane metro",
+    "lat": -27.421828,
+    "lng": 153.03484,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "543 Lutwyche Rd, Lutwyche QLD 4030",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-043",
+    "name": "Liquorland Main Street",
+    "brand": "Liquorland",
+    "suburb": "Main Street",
+    "region": "Brisbane metro",
+    "lat": -27.202625,
+    "lng": 152.95886,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "36, Main Street, Narangba, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-044",
+    "name": "Liquorland Mango Hill Capestone",
+    "brand": "Liquorland",
+    "suburb": "Mango Hill",
+    "region": "Brisbane metro",
+    "lat": -27.234667,
+    "lng": 153.044318,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Napier Avenue, Mango Hill QLD 4509",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-045",
+    "name": "Liquorland Mansfield (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Mansfield",
+    "region": "Brisbane metro",
+    "lat": -27.535235,
+    "lng": 153.102878,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "181 Wecker Road, Mansfield QLD 4122",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-046",
+    "name": "Liquorland HomeCo Marsden",
+    "brand": "Liquorland",
+    "suburb": "Marsden",
+    "region": "Brisbane metro",
+    "lat": -27.678745,
+    "lng": 153.11653,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "57-77 Chambers Flat Rd, Marsden QLD 4132",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-047",
+    "name": "Liquorland Metro Middle Park",
+    "brand": "Liquorland",
+    "suburb": "Middle Park",
+    "region": "Brisbane metro",
+    "lat": -27.555623,
+    "lng": 152.922959,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Horizon Dr & Riverhills Rd, Middle Park QLD 4074",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-048",
+    "name": "Liquorland Milton Village",
+    "brand": "Liquorland",
+    "suburb": "Milton",
+    "region": "Brisbane metro",
+    "lat": -27.388804,
+    "lng": 153.048955,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "12/36 Baroona Rd, Milton QLD 4064",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-049",
+    "name": "Liquorland Brookside Mitchelton",
+    "brand": "Liquorland",
+    "suburb": "Mitchelton",
+    "region": "Brisbane metro",
+    "lat": -27.408625,
+    "lng": 152.980072,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "159 Osborne Rd, Mitchelton QLD 4053",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-050",
+    "name": "Liquorland Excelsior Park Cellars",
+    "brand": "Liquorland",
+    "suburb": "Morayfield",
+    "region": "Brisbane metro",
+    "lat": -27.137112,
+    "lng": 152.93567,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "1 Nairn Road, Morayfield QLD 4506",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-051",
+    "name": "Liquorland Glenwood Drive Cellars Morayfield",
+    "brand": "Liquorland",
+    "suburb": "Morayfield",
+    "region": "Brisbane metro",
+    "lat": -27.113125,
+    "lng": 152.958853,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "62 Glenwood Drive, Morayfield QLD 4506",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-052",
+    "name": "Liquorland Morayfield (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Morayfield",
+    "region": "Brisbane metro",
+    "lat": -27.123875,
+    "lng": 152.958904,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "142-150 Morayfield Road, Morayfield QLD 4506",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-053",
+    "name": "Liquorland Morayfield Shopping Centre",
+    "brand": "Liquorland",
+    "suburb": "Morayfield",
+    "region": "Brisbane metro",
+    "lat": -27.102975,
+    "lng": 152.950584,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "171 Morayfield Rd, Morayfield QLD 4506",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-054",
+    "name": "Liquorland Morningside Plaza",
+    "brand": "Liquorland",
+    "suburb": "Morningside",
+    "region": "Brisbane metro",
+    "lat": -27.465545,
+    "lng": 153.079419,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "38 Junction Road, Morningside QLD 4170",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-055",
+    "name": "Liquorland Mt Gravatt Plaza",
+    "brand": "Liquorland",
+    "suburb": "Mount Gravatt",
+    "region": "Brisbane metro",
+    "lat": -27.538916,
+    "lng": 153.080293,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "55 Creek Rd, Mount Gravatt QLD 4122",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-056",
+    "name": "Liquorland Mt Ommaney Centre",
+    "brand": "Liquorland",
+    "suburb": "Mount Ommaney",
+    "region": "Brisbane metro",
+    "lat": -27.549313,
+    "lng": 152.937965,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "171 Dandenong Rd, Mount Ommaney QLD 4074",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-057",
+    "name": "Liquorland Murrumba Downs",
+    "brand": "Liquorland",
+    "suburb": "Murrumba Downs",
+    "region": "Brisbane metro",
+    "lat": -27.272025,
+    "lng": 153.016874,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "2 Goodrich Rd W, Murrumba Downs QLD 4503",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-058",
+    "name": "Liquorland New Farm (Cellars)",
+    "brand": "Liquorland",
+    "suburb": "New Farm",
+    "region": "Brisbane metro",
+    "lat": -27.466561,
+    "lng": 153.046973,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "83 Merthyr Road, New Farm QLD 4005",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-059",
+    "name": "Liquorland Newport",
+    "brand": "Liquorland",
+    "suburb": "Newport",
+    "region": "Brisbane metro",
+    "lat": -27.219149,
+    "lng": 153.098692,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Ashmole Road, Newport, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-060",
+    "name": "Liquorland Newstead (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Newstead",
+    "region": "Brisbane metro",
+    "lat": -27.452526,
+    "lng": 153.041405,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Commercial precinct rear access likely; verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Newstead Warehouse / Commercial Rd — street and lot parking",
+    "accessNotes": "12 Commercial Road, Newstead QLD 4006",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-061",
+    "name": "Liquorland Westfield North Lakes",
+    "brand": "Liquorland",
+    "suburb": "North Lakes",
+    "region": "Brisbane metro",
+    "lat": -27.238122,
+    "lng": 153.017699,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Cnr Anzac Ave & North Lakes Drive, North Lakes QLD 4509",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-062",
+    "name": "Liquorland Toombul",
+    "brand": "Liquorland",
+    "suburb": "Nundah",
+    "region": "Brisbane metro",
+    "lat": -27.40115,
+    "lng": 153.05861,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "1015 Sandgate Rd, Nundah QLD 4012",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-063",
+    "name": "Liquorland Ormiston",
+    "brand": "Liquorland",
+    "suburb": "Ormiston",
+    "region": "Brisbane metro",
+    "lat": -27.523502,
+    "lng": 153.253632,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Shore Street West, Ormiston, Brisbane, Redland City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-064",
+    "name": "Liquorland Oxley",
+    "brand": "Liquorland",
+    "suburb": "Oxley",
+    "region": "Brisbane metro",
+    "lat": -27.554562,
+    "lng": 152.975182,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Oxley Station Road, Oxley QLD 4075",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-065",
+    "name": "Liquorland Paddington",
+    "brand": "Liquorland",
+    "suburb": "Paddington",
+    "region": "Brisbane metro",
+    "lat": -27.458205,
+    "lng": 152.995144,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Latrobe Terrace, Paddington, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-066",
+    "name": "Liquorland Town Square Redbank Plains",
+    "brand": "Liquorland",
+    "suburb": "Redbank Plains",
+    "region": "Brisbane metro",
+    "lat": -27.645434,
+    "lng": 152.8715,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "357 Redbank Plains Road, Redbank Plains QLD 4301",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-067",
+    "name": "Liquorland Redcliffe Anzac Ave",
+    "brand": "Liquorland",
+    "suburb": "Redcliffe",
+    "region": "Brisbane metro",
+    "lat": -27.229584,
+    "lng": 153.105245,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "34 Anzac Avenue, Redcliffe QLD 4020",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-068",
+    "name": "Liquorland Rochedale Shopping Village",
+    "brand": "Liquorland",
+    "suburb": "Rochedale",
+    "region": "Brisbane metro",
+    "lat": -27.577493,
+    "lng": 153.113415,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "549 Underwood Rd, Rochedale QLD 4123",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-069",
+    "name": "Liquorland Salisbury (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Salisbury",
+    "region": "Brisbane metro",
+    "lat": -27.546002,
+    "lng": 153.039919,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "668 Toohey Road, Salisbury QLD 4107",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-070",
+    "name": "Liquorland Sherwood Central",
+    "brand": "Liquorland",
+    "suburb": "Sherwood",
+    "region": "Brisbane metro",
+    "lat": -27.532508,
+    "lng": 152.981317,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "672-686 Sherwood Rd, Sherwood QLD 4075",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-071",
+    "name": "Liquorland Silkstone",
+    "brand": "Liquorland",
+    "suburb": "Silkstone",
+    "region": "Brisbane metro",
+    "lat": -27.620743,
+    "lng": 152.780949,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Blackstone Road, Silkstone, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-072",
+    "name": "Liquorland Silkstone Ipswich",
+    "brand": "Liquorland",
+    "suburb": "Silkstone",
+    "region": "Brisbane metro",
+    "lat": -27.621353,
+    "lng": 152.787455,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Blackstone Road, Silkstone QLD 4304",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-073",
+    "name": "Liquorland Songbird Oxley",
+    "brand": "Liquorland",
+    "suburb": "Songbird Oxley",
+    "region": "Brisbane metro",
+    "lat": -27.554015,
+    "lng": 152.975158,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Oxley Station Road, Songbird Oxley, Oxley, Logan City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-074",
+    "name": "Liquorland South Bank",
+    "brand": "Liquorland",
+    "suburb": "South Bank",
+    "region": "Brisbane metro",
+    "lat": -27.480523,
+    "lng": 153.022651,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Grey Street, South Bank, South Brisbane, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-075",
+    "name": "Liquorland South Pine Road",
+    "brand": "Liquorland",
+    "suburb": "South Pine Road",
+    "region": "Brisbane metro",
+    "lat": -27.42424,
+    "lng": 152.999314,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "34, South Pine Road, Alderley Heights, Alderley",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-076",
+    "name": "Liquorland Spring Hill",
+    "brand": "Liquorland",
+    "suburb": "Spring Hill",
+    "region": "Brisbane metro",
+    "lat": -27.462212,
+    "lng": 153.030168,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "365 Turbot Street, Spring Hill QLD 4000",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-077",
+    "name": "Liquorland Orion Springfield Central",
+    "brand": "Liquorland",
+    "suburb": "Springfield",
+    "region": "Brisbane metro",
+    "lat": -27.676791,
+    "lng": 152.901302,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "1 Main Street, Springfield QLD 4300",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-078",
+    "name": "Liquorland Ironside St Lucia",
+    "brand": "Liquorland",
+    "suburb": "St Lucia",
+    "region": "Brisbane metro",
+    "lat": -27.501636,
+    "lng": 152.996683,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "28 Hawken Drive, St Lucia QLD 4067",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-079",
+    "name": "Liquorland Strathpine Centre",
+    "brand": "Liquorland",
+    "suburb": "Strathpine",
+    "region": "Brisbane metro",
+    "lat": -27.306265,
+    "lng": 152.99114,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "295 Gympie Rd, Strathpine QLD 4500",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-080",
+    "name": "Liquorland Sunnybank Plaza",
+    "brand": "Liquorland",
+    "suburb": "Sunnybank",
+    "region": "Brisbane metro",
+    "lat": -27.572026,
+    "lng": 153.065494,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Mains Rd & McCullough St, Sunnybank QLD 4109",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-081",
+    "name": "Liquorland Sunnybank Hills Shoppingtown",
+    "brand": "Liquorland",
+    "suburb": "Sunnybank Hills",
+    "region": "Brisbane metro",
+    "lat": -27.610834,
+    "lng": 153.05733,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "661 Compton Rd, Sunnybank Hills QLD 4109",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-082",
+    "name": "Liquorland Taigum Barn",
+    "brand": "Liquorland",
+    "suburb": "Taigum",
+    "region": "Brisbane metro",
+    "lat": -27.350521,
+    "lng": 153.046553,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "217 Beams Road, Taigum QLD 4018",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-083",
+    "name": "Liquorland Taringa",
+    "brand": "Liquorland",
+    "suburb": "Taringa",
+    "region": "Brisbane metro",
+    "lat": -27.493182,
+    "lng": 152.978395,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "216 Moggill Road, Taringa QLD 4068",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-084",
+    "name": "Liquorland The Gap Village",
+    "brand": "Liquorland",
+    "suburb": "The Gap",
+    "region": "Brisbane metro",
+    "lat": -27.445199,
+    "lng": 152.952638,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "1000 Waterworks Rd, The Gap QLD 4061",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-085",
+    "name": "Liquorland Thornlands",
+    "brand": "Liquorland",
+    "suburb": "Thornlands",
+    "region": "Brisbane metro",
+    "lat": -27.567273,
+    "lng": 153.249045,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "128-144 Boundary Road, Thornlands QLD 4164",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-086",
+    "name": "Liquorland Toowong Village",
+    "brand": "Liquorland",
+    "suburb": "Toowong",
+    "region": "Brisbane metro",
+    "lat": -27.485463,
+    "lng": 152.992979,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "9 Sherwood Rd, Toowong QLD 4066",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-087",
+    "name": "Liquorland Underwood Road",
+    "brand": "Liquorland",
+    "suburb": "Underwood Road",
+    "region": "Brisbane metro",
+    "lat": -27.596731,
+    "lng": 153.124754,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "548, Underwood Road, Rochedale South, Logan City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-088",
+    "name": "Liquorland Garden City Westfield Mt Gravatt",
+    "brand": "Liquorland",
+    "suburb": "Upper Mount Gravatt",
+    "region": "Brisbane metro",
+    "lat": -27.555702,
+    "lng": 153.080767,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Cnr Logan Road & Kessels Road, Upper Mount Gravatt QLD 4122",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-089",
+    "name": "Liquorland Upper Mt Gravatt (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Upper Mount Gravatt",
+    "region": "Brisbane metro",
+    "lat": -27.560451,
+    "lng": 153.089904,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "516 Newnham Road, Upper Mount Gravatt QLD 4122",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-090",
+    "name": "Liquorland Victoria Point Shopping Centre",
+    "brand": "Liquorland",
+    "suburb": "Victoria Point",
+    "region": "Brisbane metro",
+    "lat": -27.588394,
+    "lng": 153.280815,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "2-34 Bunker Rd, Victoria Point QLD 4165",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-091",
+    "name": "Liquorland Wardell Street",
+    "brand": "Liquorland",
+    "suburb": "Wardell Street",
+    "region": "Brisbane metro",
+    "lat": -27.423104,
+    "lng": 152.99022,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "318, Wardell Street, Enoggera, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-092",
+    "name": "Liquorland Waterford",
+    "brand": "Liquorland",
+    "suburb": "Waterford",
+    "region": "Brisbane metro",
+    "lat": -27.693089,
+    "lng": 153.141752,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Albert Street, Waterford, Brisbane, Redland City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-093",
+    "name": "Liquorland Waterford Plaza",
+    "brand": "Liquorland",
+    "suburb": "Waterford West",
+    "region": "Brisbane metro",
+    "lat": -27.692716,
+    "lng": 153.135101,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "917 Kingston Rd, Waterford West QLD 4133",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-094",
+    "name": "Liquorland Wavell Heights",
+    "brand": "Liquorland",
+    "suburb": "Wavell Heights",
+    "region": "Brisbane metro",
+    "lat": -27.388742,
+    "lng": 153.048055,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Hamilton Road, Wavell Heights QLD 4012",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-095",
+    "name": "Liquorland West End",
+    "brand": "Liquorland",
+    "suburb": "West End",
+    "region": "Brisbane metro",
+    "lat": -27.48633,
+    "lng": 153.006409,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "168 Hardgrave Road, West End QLD 4101",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-096",
+    "name": "Liquorland Wynnum Plaza",
+    "brand": "Liquorland",
+    "suburb": "Wynnum West",
+    "region": "Brisbane metro",
+    "lat": -27.45722,
+    "lng": 153.155265,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "2021 Wynnum Rd, Wynnum West QLD 4178",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "brisbane"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-097",
+    "name": "Liquorland Ashmore City",
+    "brand": "Liquorland",
+    "suburb": "Ashmore",
+    "region": "Gold Coast",
+    "lat": -27.978214,
+    "lng": 153.380581,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "206 Currumburra Rd, Ashmore QLD 4214",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-098",
+    "name": "Liquorland The Mall Beenleigh",
+    "brand": "Liquorland",
+    "suburb": "Beenleigh",
+    "region": "Gold Coast",
+    "lat": -27.718449,
+    "lng": 153.202795,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "40/68 Main St, Beenleigh QLD 4207",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-099",
+    "name": "Liquorland Benowa Village",
+    "brand": "Liquorland",
+    "suburb": "Benowa",
+    "region": "Gold Coast",
+    "lat": -28.002312,
+    "lng": 153.375624,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "1 Ross St, Benowa QLD 4217",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-100",
+    "name": "Liquorland Broadbeach",
+    "brand": "Liquorland",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "lat": -28.028463,
+    "lng": 153.430566,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "2721 Main Place, Broadbeach QLD 4218",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-101",
+    "name": "Liquorland Pacific Fair Broadbeach",
+    "brand": "Liquorland",
+    "suburb": "Broadbeach",
+    "region": "Gold Coast",
+    "lat": -28.034335,
+    "lng": 153.430854,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Hooker Blvd, Broadbeach QLD 4218",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-102",
+    "name": "Liquorland West Burleigh Cellar",
+    "brand": "Liquorland",
+    "suburb": "Burleigh Heads",
+    "region": "Gold Coast",
+    "lat": -28.098501,
+    "lng": 153.440168,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "149 West Burleigh Road, Burleigh Heads QLD 4220",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-103",
+    "name": "Liquorland Burleigh Waters",
+    "brand": "Liquorland",
+    "suburb": "Burleigh Waters",
+    "region": "Gold Coast",
+    "lat": -28.099588,
+    "lng": 153.425068,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Classic Way, Burleigh Waters, Gold Coast, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-104",
+    "name": "Liquorland Stockland Burleigh Heads",
+    "brand": "Liquorland",
+    "suburb": "Burleigh Waters",
+    "region": "Gold Coast",
+    "lat": -28.097112,
+    "lng": 153.441555,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "149 W Burleigh Rd, Burleigh Waters QLD 4220",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-105",
+    "name": "Liquorland Castile Crescent",
+    "brand": "Liquorland",
+    "suburb": "Castile Crescent",
+    "region": "Gold Coast",
+    "lat": -27.700006,
+    "lng": 153.16862,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "125-127, Castile Crescent, Edens Landing, Logan City",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-106",
+    "name": "Liquorland Coombabah Plaza",
+    "brand": "Liquorland",
+    "suburb": "Coombabah",
+    "region": "Gold Coast",
+    "lat": -27.899459,
+    "lng": 153.38198,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "21 Hansford Rd, Coombabah QLD 4216",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-107",
+    "name": "Liquorland Westfield Coomera",
+    "brand": "Liquorland",
+    "suburb": "Coomera",
+    "region": "Gold Coast",
+    "lat": -27.8538,
+    "lng": 153.315809,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "103 Foxwell Road, Coomera QLD 4209",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-108",
+    "name": "Liquorland Eagleby",
+    "brand": "Liquorland",
+    "suburb": "Eagleby",
+    "region": "Gold Coast",
+    "lat": -27.722721,
+    "lng": 153.219386,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Distillery Road, Eagleby, Brisbane, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-109",
+    "name": "Liquorland The Pines Elanora",
+    "brand": "Liquorland",
+    "suburb": "Elanora",
+    "region": "Gold Coast",
+    "lat": -28.134668,
+    "lng": 153.468439,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "13/31 Guineas Creek Road, Elanora QLD 4221",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-110",
+    "name": "Liquorland Hope Island",
+    "brand": "Liquorland",
+    "suburb": "Hope Island",
+    "region": "Gold Coast",
+    "lat": -27.878322,
+    "lng": 153.36376,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "87-97 Broadwater Avenue, Hope Island QLD 4212",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-111",
+    "name": "Liquorland Labrador",
+    "brand": "Liquorland",
+    "suburb": "Labrador",
+    "region": "Gold Coast",
+    "lat": -27.952056,
+    "lng": 153.40773,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "36 Frank Street, Labrador QLD 4215",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-112",
+    "name": "Liquorland Main Beach",
+    "brand": "Liquorland",
+    "suburb": "Main Beach",
+    "region": "Gold Coast",
+    "lat": -27.978467,
+    "lng": 153.425113,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "26-30 Tedder Avenue, Main Beach QLD 4217",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-113",
+    "name": "Liquorland Mermaid Beach",
+    "brand": "Liquorland",
+    "suburb": "Mermaid Beach",
+    "region": "Gold Coast",
+    "lat": -28.039623,
+    "lng": 153.434032,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "2547 Gold Coast Highway, Mermaid Beach QLD 4218",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-114",
+    "name": "Liquorland Q Super Centre Mermaid Waters",
+    "brand": "Liquorland",
+    "suburb": "Mermaid Waters",
+    "region": "Gold Coast",
+    "lat": -28.045637,
+    "lng": 153.407571,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Markeri St & Bermuda Street, Mermaid Waters QLD 4218",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-115",
+    "name": "Liquorland Miami",
+    "brand": "Liquorland",
+    "suburb": "Miami",
+    "region": "Gold Coast",
+    "lat": -28.074013,
+    "lng": 153.444326,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "1934 Gold Coast Highway, Miami QLD 4220",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-116",
+    "name": "Liquorland My Centre Nerang",
+    "brand": "Liquorland",
+    "suburb": "Nerang",
+    "region": "Gold Coast",
+    "lat": -27.997213,
+    "lng": 153.338424,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "57 Station St, Nerang QLD 4211",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-117",
+    "name": "Liquorland Norfolk Village Ormeau",
+    "brand": "Liquorland",
+    "suburb": "Ormeau",
+    "region": "Gold Coast",
+    "lat": -27.78394,
+    "lng": 153.26098,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "180 Pascoe Rd, Ormeau QLD 4208",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-118",
+    "name": "Liquorland Pacific Pines",
+    "brand": "Liquorland",
+    "suburb": "Pacific Pines",
+    "region": "Gold Coast",
+    "lat": -27.92587,
+    "lng": 153.323433,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Universal Street, Pacific Pines, Queensland, 4211",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-119",
+    "name": "Liquorland Pavilions Palm Beach",
+    "brand": "Liquorland",
+    "suburb": "Palm Beach",
+    "region": "Gold Coast",
+    "lat": -28.122381,
+    "lng": 153.472443,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "10 Fifth Ave, Palm Beach QLD 4221",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-120",
+    "name": "Liquorland Robina",
+    "brand": "Liquorland",
+    "suburb": "Robina",
+    "region": "Gold Coast",
+    "lat": -28.078144,
+    "lng": 153.383416,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "19 Robina Town Centre Drive, Robina QLD 4230",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-121",
+    "name": "Liquorland Robina Town Centre",
+    "brand": "Liquorland",
+    "suburb": "Robina",
+    "region": "Gold Coast",
+    "lat": -28.072127,
+    "lng": 153.365195,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Robina Town Centre Drive, Robina QLD 4230",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-122",
+    "name": "Liquorland Runaway Bay (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Runaway Bay",
+    "region": "Gold Coast",
+    "lat": -27.912621,
+    "lng": 153.397316,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "516 Lae Drive, Runaway Bay QLD 4216",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-123",
+    "name": "Liquorland Runaway Bay Centre",
+    "brand": "Liquorland",
+    "suburb": "Runaway Bay",
+    "region": "Gold Coast",
+    "lat": -27.914054,
+    "lng": 153.400832,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "10-12 Lae Drive, Runaway Bay QLD 4216",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-124",
+    "name": "Liquorland Australia Fair",
+    "brand": "Liquorland",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "lat": -27.968452,
+    "lng": 153.416063,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "42 Marine Parade, Southport QLD 4215",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-125",
+    "name": "Liquorland Southport (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "lat": -27.990254,
+    "lng": 153.412048,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "201 Ferry Road, Southport QLD 4215",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-126",
+    "name": "Liquorland Southport Park",
+    "brand": "Liquorland",
+    "suburb": "Southport",
+    "region": "Gold Coast",
+    "lat": -27.968781,
+    "lng": 153.40667,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Cnr Ferry Road & Benowa Road, Southport QLD 4215",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-127",
+    "name": "Liquorland Surfers Paradise Express",
+    "brand": "Liquorland",
+    "suburb": "Surfers Paradise",
+    "region": "Gold Coast",
+    "lat": -27.998969,
+    "lng": 153.427891,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Delivery often via hotel rear drive or side lane; confirm with venue. No public dock coords.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Street-front, express, or hotel-barn site — limited parking; may use rear lane.",
+    "accessNotes": "3240 Surfers Paradise Blvd, Surfers Paradise QLD 4217",
+    "window": "",
+    "constraints": "Geo confidence: low",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-128",
+    "name": "Liquorland Varsity Lakes (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Varsity Lakes",
+    "region": "Gold Coast",
+    "lat": -28.08475,
+    "lng": 153.424719,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Likely dedicated rear or side loading for truck deliveries (Warehouse format); exact bay unknown — driver verify",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Standalone Liquorland Warehouse format — typically large at-grade car park with kerbside/rear truck access; verify on site",
+    "accessNotes": "221 Christine Avenue, Varsity Lakes QLD 4227",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-129",
+    "name": "Liquorland Varsity Lakes Coles",
+    "brand": "Liquorland",
+    "suburb": "Varsity Lakes",
+    "region": "Gold Coast",
+    "lat": -28.079476,
+    "lng": 153.408649,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "1 Bellvue Drive, Varsity Lakes QLD 4227",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-130",
+    "name": "Liquorland Windaroo",
+    "brand": "Liquorland",
+    "suburb": "Windaroo",
+    "region": "Gold Coast",
+    "lat": -27.740327,
+    "lng": 153.191442,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Beaudesert Beenleigh Road, Windaroo, Logan City, Brisbane",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "gold-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-131",
+    "name": "Liquorland Bribie Island",
+    "brand": "Liquorland",
+    "suburb": "Bellara",
+    "region": "Other SEQ",
+    "lat": -27.06282,
+    "lng": 153.150501,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "239 Goodwin Drive, Bellara QLD 4507",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "other-seq"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-132",
+    "name": "Liquorland Bongaree Plaza",
+    "brand": "Liquorland",
+    "suburb": "Bongaree",
+    "region": "Other SEQ",
+    "lat": -27.075969,
+    "lng": 153.156921,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "91 Welsby Parade, Bongaree QLD 4507",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "other-seq"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-133",
+    "name": "Liquorland Keaneys Spring Toowoomba Plaza",
+    "brand": "Liquorland",
+    "suburb": "Kearneys Spring",
+    "region": "Other SEQ",
+    "lat": -27.594293,
+    "lng": 151.948886,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "878 Ruthven St, Kearneys Spring QLD 4350",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "other-seq"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-134",
+    "name": "Liquorland Clifford Gardens",
+    "brand": "Liquorland",
+    "suburb": "Toowoomba",
+    "region": "Other SEQ",
+    "lat": -27.561019,
+    "lng": 151.953351,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "Shop 75 Clifford Gardens SC, Cnr Anzac Ave & James St, Toowoomba QLD 4350",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "other-seq"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-135",
+    "name": "Liquorland Battery Hill",
+    "brand": "Liquorland",
+    "suburb": "Battery Hill",
+    "region": "Sunshine Coast",
+    "lat": -26.775783,
+    "lng": 153.132385,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Buderim Street, Battery Hill, Caloundra, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-136",
+    "name": "Liquorland Stockland Birtinya",
+    "brand": "Liquorland",
+    "suburb": "Birtinya",
+    "region": "Sunshine Coast",
+    "lat": -26.740158,
+    "lng": 153.115775,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "8 The Avenue, Birtinya QLD 4575",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-137",
+    "name": "Liquorland Kawana Shoppingworld",
+    "brand": "Liquorland",
+    "suburb": "Buddina",
+    "region": "Sunshine Coast",
+    "lat": -26.70199,
+    "lng": 153.131667,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "119 Point Cartwright Dr, Buddina QLD 4575",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-138",
+    "name": "Liquorland Buderim",
+    "brand": "Liquorland",
+    "suburb": "Buderim",
+    "region": "Sunshine Coast",
+    "lat": -26.687322,
+    "lng": 153.049533,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Burnett Street, Buderim, Sunshine Coast, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-139",
+    "name": "Liquorland Buderim",
+    "brand": "Liquorland",
+    "suburb": "Buderim",
+    "region": "Sunshine Coast",
+    "lat": -26.683369,
+    "lng": 153.070088,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "King Street, Buderim, Sunshine Coast, Queensland",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-140",
+    "name": "Liquorland Buderim Marketplace",
+    "brand": "Liquorland",
+    "suburb": "Buderim",
+    "region": "Sunshine Coast",
+    "lat": -26.662926,
+    "lng": 153.050027,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "14/67 Burnett St, Buderim QLD 4556",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-141",
+    "name": "Liquorland Caloundra",
+    "brand": "Liquorland",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "lat": -26.803333,
+    "lng": 153.125007,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Bowman Road, Caloundra, Queensland, 4551",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-142",
+    "name": "Liquorland Caloundra Shopping Centre",
+    "brand": "Liquorland",
+    "suburb": "Caloundra",
+    "region": "Sunshine Coast",
+    "lat": -26.772633,
+    "lng": 153.122785,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "47 Bowman Rd, Caloundra QLD 4551",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-143",
+    "name": "Liquorland Carnaby Street",
+    "brand": "Liquorland",
+    "suburb": "Carnaby Street",
+    "region": "Sunshine Coast",
+    "lat": -26.658338,
+    "lng": 153.086826,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "1, Carnaby Street, City Core (Carnaby Street), Maroochydore",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-144",
+    "name": "Liquorland Maroochydore (Warehouse)",
+    "brand": "Liquorland",
+    "suburb": "Maroochydore",
+    "region": "Sunshine Coast",
+    "lat": -26.657362,
+    "lng": 153.087136,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Warehouse truck access — verify bay",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Maroochydore Warehouse on Plaza Parade — large car park",
+    "accessNotes": "Plaza Parade, Maroochydore QLD 4558",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast",
+      "warehouse"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-145",
+    "name": "Liquorland Noosa Heads",
+    "brand": "Liquorland",
+    "suburb": "Noosa Heads",
+    "region": "Sunshine Coast",
+    "lat": -26.396486,
+    "lng": 153.089579,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Sunshine Beach Road, Noosa Heads, Queensland, 4567",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-146",
+    "name": "Liquorland Noosa Junction Plaza",
+    "brand": "Liquorland",
+    "suburb": "Noosa Heads",
+    "region": "Sunshine Coast",
+    "lat": -26.398735,
+    "lng": 153.091969,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "81 Noosa Dr, Noosa Heads QLD 4567",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-147",
+    "name": "Liquorland Noosaville",
+    "brand": "Liquorland",
+    "suburb": "Noosaville",
+    "region": "Sunshine Coast",
+    "lat": -26.410905,
+    "lng": 153.035297,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Swanbourne Way, Noosaville, Queensland, 4566",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-148",
+    "name": "Liquorland Sippy Downs",
+    "brand": "Liquorland",
+    "suburb": "Sippy Downs",
+    "region": "Sunshine Coast",
+    "lat": -26.717729,
+    "lng": 153.048307,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "111 Sippy Downs Drive, Sippy Downs QLD 4556",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-149",
+    "name": "Liquorland Town of Caloundra",
+    "brand": "Liquorland",
+    "suburb": "Town of Caloundra",
+    "region": "Sunshine Coast",
+    "lat": -26.800684,
+    "lng": 153.143117,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Public sources do not confirm truck parking layout for this storefront.",
+    "accessNotes": "Burgess Street, Town of Caloundra, Kings Beach, Caloundra",
+    "window": "",
+    "constraints": "Geo confidence: unknown",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-150",
+    "name": "Liquorland Warana Markets",
+    "brand": "Liquorland",
+    "suburb": "Warana",
+    "region": "Sunshine Coast",
+    "lat": -26.725427,
+    "lng": 153.129698,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "239 Nicklin Way, Warana QLD 4575",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  },
+  {
+    "id": "ll-seq-151",
+    "name": "Liquorland Wurtulla Shopping Village",
+    "brand": "Liquorland",
+    "suburb": "Wurtulla",
+    "region": "Sunshine Coast",
+    "lat": -26.759338,
+    "lng": 153.12435,
+    "dockLat": null,
+    "dockLng": null,
+    "dockNotes": "Expect shared centre loading dock / service lane; confirm bay with centre security or liquor receiving.",
+    "parkLat": null,
+    "parkLng": null,
+    "parkNotes": "Shopping-centre / plaza customer car park. Truck access usually via centre service road, not customer entry.",
+    "accessNotes": "614 Nicklin Way, Wurtulla QLD 4575",
+    "window": "",
+    "constraints": "Geo confidence: medium",
+    "tips": [
+      "Verify dock/park on site — public clues only"
+    ],
+    "tags": [
+      "liquorland",
+      "sunshine-coast"
+    ],
+    "starter": false
+  }
+]
